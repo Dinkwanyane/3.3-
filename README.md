@@ -1,2 +1,13 @@
 # 3.3-
-Setting Up Twilio WhatsApp Chatbot
+# WhatsApp Chatbot
+
+## Goal:
+Build a simple WhatsApp chatbot using Django and Twilio.
+
+##Technologies:
+
+- Python
+- Django
+- Twilio
+- WhatsApp
+- ngrok
